@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Cloud Security Alliance!" />
         <p className="description">
-          Cloud Security Alliance Malaysian Chapter .. Coming soon.
+           This is Cloud Security Alliance Malaysian Chapter .. We are Coming soon.
         </p>
       </main>
 
